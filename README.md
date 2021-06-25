@@ -1,6 +1,6 @@
 ### Hi there, I'm Manav Dhiman👋
 
--I am a developer who is passionate about new things and love to build new technics to solve real life problems. Web App Dev and Compitative Progromming are the things i love to do the most.Few tech that I enjoy working in, are Python, C++, Javascript, and  Mysql. I play Cricket, do Workout and Read books to entertain myself.
+-I am a developer who is passionate about new things and love to build new technics to solve real life problems. Web App Dev and Competitive Programming are the things i love to do the most.Few languages that I enjoy working in, are Python, C++, Javascript, and  Mysql. I play Cricket, Workout and Read books to entertain myself.
 
 
 To connect with me,
